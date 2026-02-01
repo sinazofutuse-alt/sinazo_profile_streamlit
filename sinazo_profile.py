@@ -234,5 +234,5 @@ elif menu == "STEM Data Explorer":
 # ===============================
 elif menu == "Contact":
     st.header("Contact Information")
-    st.write(f"📧 Email: {sinazofutuse@gmail.com}")
+    st.write(f"📧 Email: {email}")
     st.write("📍 South Africa")
